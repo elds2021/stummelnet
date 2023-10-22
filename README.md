@@ -7,8 +7,16 @@ StummelNet is a Machine Learning model specialized in detecting cigarette butts 
 ## Features
 
 - **Efficient and Lightweight**: Developed with a focus on performance and efficiency, making it suitable for mobile applications.
+
 - **Balanced Performance**: Exhibits stable and balanced results across various evaluation metrics.
+
 - **Extensively Tested**: Trained with over 70 model variants from four different architectures over a span of 48 hours.
+
+- ## Example Training Data
+
+Below is an example image from the dataset used to train the model. This is to provide a visual representation of the kind of data that the model has been exposed to during its training phase.
+
+![Example Training Image]()
 
 ## Getting Started
 
@@ -28,7 +36,7 @@ While the StummelNet model is not openly available for modification, we welcome 
 
 ## Contact
 
-For inquiries, model access requests, or further information, please contact [Your Contact Information].
+For inquiries, model access requests, or further information, please contact us through GitHub by opening a new issue in this repository and tagging it with the `inquiry` label. We will get back to you as soon as possible.
 
 ## Acknowledgments
 
