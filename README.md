@@ -1,8 +1,8 @@
-# StummelNet: Cigarette Butt Detection Model
+# StummelNet: Cigarette Butt Classification Model
 
 ## Overview
 
-StummelNet is a CNN Machine Learning model specialized in detecting cigarette butts in images. Developed using TensorFlow and Keras, this model employs Transfer Learning and Fine Tuning techniques to provide a robust and balanced performance. The model has been meticulously optimized and evaluated using a variety of metrics and has shown promising results in identifying cigarette butts, contributing to waste management and environmental awareness initiatives.
+StummelNet is a CNN Machine Learning model specialized in detecting cigarette butts in images. Developed using TensorFlow and Keras, this model employs Transfer Learning and Fine Tuning techniques to provide a robust and balanced performance. The model has been meticulously optimized and evaluated using a variety of metrics and has shown promising results in identifying cigarette butts in images, contributing to waste management and environmental awareness initiatives.
 
 ## Features
 
