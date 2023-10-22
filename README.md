@@ -24,13 +24,9 @@ Ensure you have Python installed along with libraries such as TensorFlow, Keras,
 
 Please contact the repository owner if you wish to access the StummelNet model. Include a brief description of your intended use case and any other relevant information in your request.
 
-## Contributing
-
-While the StummelNet model is not openly available for modification, we welcome suggestions, feedback, and inquiries regarding its use and potential improvements. Please feel free to open an issue or contact the repository owner directly.
-
 ## Contact
 
-For inquiries, model access requests, or further information, please contact us through GitHub by opening a new issue in this repository and tagging it with the `inquiry` label. We will get back to you as soon as possible.
+For inquiries, requests for access to the model, or additional information, please contact us through GitHub. You can open a new issue in this repository and tag it with the `inquiry` label. If you are unfamiliar with this process, you can find a guide on [how to create an issue on GitHub](https://help.github.com/en/articles/creating-an-issue) here. We will respond as soon as possible.
 
 ## Acknowledgments
 
